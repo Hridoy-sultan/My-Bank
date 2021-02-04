@@ -1,0 +1,30 @@
+body{
+    padding:100px;
+}
+.f-area {
+     margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray ;
+}
+#transaction-area{
+display: none;
+}
+.Deposit{
+   
+    background-color: slateblue;
+    color: white;
+}
+.Withdraw{
+    background-color: tomato;
+color: white;
+}
+.Balance{
+    background-color: orange;
+color: white;
+}
+.status{
+    border-radius: 20px;
+   padding: 20px;
+   margin:5px;
+}
